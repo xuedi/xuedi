@@ -1,5 +1,3 @@
-### xuedi here
-
 [![Platform](https://img.shields.io/static/v1?label=Platform&message=GNU%20Linux%20x86%20since%201997&color=green)](https://archlinux.org/)
 [![Version](https://img.shields.io/static/v1?label=Version&message=3.1&color=green)](https://github.com/xuedi/xuedi/blob/main/VERSION.md)
 [![Issues](https://img.shields.io/github/issues/xuedi/xuedi)](https://github.com/xuedi/xuedi/issues)
