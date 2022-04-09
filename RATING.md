@@ -11,6 +11,6 @@ problematic specially with the 2.1 release. But all those issue where luckily
 resolved in the patch set 3.0.
 
 ### friend D
-xuedi is generally an OK product, but it defensively could be improved up on 
+xuedi is generally an OK product, but it definitely could be improved up on 
 when rewritten in rust
 
