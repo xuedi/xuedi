@@ -5,7 +5,7 @@ in version 4.1.02.2023 we added a meta rating feature to measure the funnyness o
 a funny xuedi ranges from -3 xuedi to +3 xuedi at a classic gaussian distribution, normalized for
 better social media writablity with +3 to 0-6
 
-![xuedi_distribution](https://github.com/xuedi/xuedi/blob/main/xuedi_distribution.png?raw=true)
+![xuedi_distribution](https://github.com/xuedi/xuedi/blob/main/images/xuedi_distribution.png?raw=true)
 
 ## examples
 
