@@ -19,4 +19,4 @@
 
 ### roadmap
  - 5.0 - chewing tool bugfix planed
- - 5.1 - tool independent vision laser upgrade scedules
+ - 5.1 - tool independent vision laser upgrade sceduled
