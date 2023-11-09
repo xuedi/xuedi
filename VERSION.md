@@ -4,6 +4,7 @@
  - 0.5.00.1981 alpha // Project commitment while drunk listening at a party to Gottlieb Wendehals: Polonäse
  - 1.0.00.1982 release // Right on production schedule
  - 1.1.12.1994 bugfix // fixed childhood issue with post puberty bugfix
+ - 1.2.00.1995 release // upgraded from x86dx2 platform to AND K5
  - 1.2.15.1997 release // production went live in first internet bubble 
  - 1.3.19.2001 refactoring // post bubble refactoring & adjutment patches
  - 1.4.23.2005 release // added chinese locale feature
