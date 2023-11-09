@@ -5,7 +5,7 @@
  - 1.0.00.1982 release // Right on production schedule
  - 1.1.12.1994 bugfix // fixed childhood issue with post puberty bugfix
  - 1.2.15.1997 release // production went live in first internet bubble 
- - 1.3.19.2001 refactoring // refactored out post bubble adjustments
+ - 1.3.19.2001 refactoring // post bubble refactoring & adjutment patches
  - 1.4.23.2005 release // added chinese locale feature
  - 1.5.30.2012 release // scraped chinese feature and changed core to german local
  - 2.0.32.2014 release // integrated local social features
