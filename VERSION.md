@@ -9,6 +9,7 @@
  - 1.2.15.1997 release // production went live in first internet bubble 
  - 1.3.19.2001 refactoring // post bubble refactoring & adjutment patches
  - 1.4.23.2005 release // added chinese locale feature
+ - 1.4.95.2007 bugfix // restored independence by sigle mode activation
  - 1.5.30.2012 release // scraped chinese feature and changed core to german local
  - 2.0.32.2014 release // integrated local social features
  - 2.1.34.2016 release // added shit tons of social features and tuned up engine to over 9000
