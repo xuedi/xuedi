@@ -20,3 +20,5 @@
 ### roadmap
  - 5.0 - chewing tool bugfix planed
  - 5.1 - tool independent vision laser upgrade sceduled
+ - 5.2 - refactor codebase to allow compatability for future GF extention
+ - 6.0 - planed for GF feature implementation
