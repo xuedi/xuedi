@@ -1,6 +1,6 @@
 
 ### version history
- - 0.1.00.1976 beta // Parents meet each other
+ - 0.1.00.1976 beta // Delevopment team meet each other
  - 0.5.00.1981 alpha // Project commitment while drunk listening at a party to Gottlieb Wendehals: Polonäse
  - 1.0.00.1982 release // Right on production schedule
  - 1.1.12.1994 bugfix // fixed childhood issue with post puberty bugfix
