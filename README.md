@@ -1,4 +1,3 @@
-
 <div align="center">
   <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuedi&theme=graywhite" />
 </div>
@@ -31,7 +30,6 @@
 <tr>
 <td valign="top" align="center">
 
-<br /><br /><br />
 <img alt="Most used language in commits" width="440" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xuedi&theme=graywhite" />
 
 </td>
@@ -41,17 +39,10 @@
 
 Some projects i play around with
 
-- [meetagain](https://github.com/xuedi/meetagain) · `PHP`<br>
-Organize a group and schedule recurring events.
-
-- [FileFin](https://github.com/xuedi/FileFin) · `Go` · `Svelte`<br>
-A filesystem-based media server.
-
-- [vellum](https://github.com/xuedi/vellum) · `Rust`<br>
-Makes Markdown files for non-Markdown folks.
-
-- [claude-statusline](https://github.com/xuedi/claude-statusline) · `Rust`<br>
-When claude at all, then pretty
+- [meetagain](https://github.com/xuedi/meetagain) · `PHP`
+- [FileFin](https://github.com/xuedi/FileFin) · `Go` · `Svelte`
+- [vellum](https://github.com/xuedi/vellum) · `Rust`
+- [claude-statusline](https://github.com/xuedi/claude-statusline) · `Rust`
 
 </td>
 </tr>
@@ -75,8 +66,8 @@ I'm **雪地** (_xuědì_) - a developer in **Berlin**
 <img alt="GitHub stats" width="440" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuedi&theme=graywhite" />
 
 </td>
+</tr>
 </tbody>
 </table>
 
 ![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=xuedi&bg_color=ffffff&color=24292e&line=24292e&point=24292e&area=true&area_color=eaeef2&hide_border=false&border_color=e1e4e8&custom_title=Contribution%20activity)
-
