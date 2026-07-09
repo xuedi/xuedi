@@ -1,6 +1,7 @@
-# 雪地
 
-![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuedi&theme=graywhite)
+<div align="center">
+  <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xuedi&theme=graywhite" />
+</div>
 
 <table>
 <tbody>
@@ -30,6 +31,7 @@
 <tr>
 <td valign="top" align="center">
 
+<br /><br /><br />
 <img alt="Most used language in commits" width="440" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xuedi&theme=graywhite" />
 
 </td>
@@ -37,17 +39,19 @@
 
 ### Where those commits go
 
-[meetagain](https://github.com/xuedi/meetagain) · `PHP`<br>
-Organize a group and schedule recurring events. Live at [meetagain.org](https://meetagain.org).
+Some projects i play around with
 
-[FileFin](https://github.com/xuedi/FileFin) · `Go` · `Svelte`<br>
-A filesystem-based media server — point it at a folder and stream.
+- [meetagain](https://github.com/xuedi/meetagain) · `PHP`<br>
+Organize a group and schedule recurring events.
 
-[vellum](https://github.com/xuedi/vellum) · `Rust`<br>
-Makes Markdown files transportable & readable for non-Markdown folks.
+- [FileFin](https://github.com/xuedi/FileFin) · `Go` · `Svelte`<br>
+A filesystem-based media server.
 
-[claude-statusline](https://github.com/xuedi/claude-statusline) · `Rust`<br>
-~500-line CLI: model, git branch/diff, token bar, effort & rate limits in one line.
+- [vellum](https://github.com/xuedi/vellum) · `Rust`<br>
+Makes Markdown files for non-Markdown folks.
+
+- [claude-statusline](https://github.com/xuedi/claude-statusline) · `Rust`<br>
+When claude at all, then pretty
 
 </td>
 </tr>
@@ -58,44 +62,21 @@ Makes Markdown files transportable & readable for non-Markdown folks.
 
 ### About me
 
-I'm **雪地** (_xuědì_) — a developer in **Berlin**
+I'm **雪地** (_xuědì_) - a developer in **Berlin**
 
-- I build & **self-host** my own stack on a dedicated box
-- Currently growing [meetagain.org](https://meetagain.org), grassroots group & event organizing
-- Arch Linux daily driver, terminal-first, `just` over `make`
-- Started with a little game in `Pawn` back in the mid-90s — see [ImJahre1492](https://github.com/xuedi/ImJahre1492)
-- Open to work & happy to talk shop
+- I build & self-host
+- EUPL for licensing
+- Currently working on [meetagain.org](https://meetagain.org)
+- Arch Linux daily driver, terminal-first, `just` everything
 
 </td>
 <td valign="top" align="center">
-
+<br />
 <img alt="GitHub stats" width="440" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xuedi&theme=graywhite" />
 
 </td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td valign="top" align="center">
-
-<img alt="Productive time" width="440" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xuedi&theme=graywhite&utcOffset=8" />
-
-</td>
-<td valign="top">
-
-### How I work
-
-- Living on **Berlin** time, thinking on **Beijing** time (hence the +8 clock)
-- Most productive after dark — the card on the left doesn't lie
-- Small sharp tools: `just`, Docker, a tidy terminal
-- Ship it, self-host it, keep it running
-- Markdown-driven — enough that I wrote [vellum](https://github.com/xuedi/vellum) for it
-
-</td>
-</tr>
 </tbody>
 </table>
 
 ![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=xuedi&bg_color=ffffff&color=24292e&line=24292e&point=24292e&area=true&area_color=eaeef2&hide_border=false&border_color=e1e4e8&custom_title=Contribution%20activity)
 
-Let's build something · [www.xuedi.de](http://www.xuedi.de) · [beijingcode.org](https://beijingcode.org)
